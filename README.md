@@ -7,5 +7,5 @@
 - Mark tasks as completed or pending
 - Delete tasks from the list
 - Tasks are saved automatically in tasks.txt
-- Data persists across sessions via tasks.txt
+- Data persists across sessions
 - Clean separation between UI, logic, and data
