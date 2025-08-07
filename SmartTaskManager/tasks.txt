@@ -1,0 +1,2 @@
+Project - 01;JavaFX;2025-08-07;true
+Project -02;PowerBI - HR  Dashboard;2025-08-07;false
